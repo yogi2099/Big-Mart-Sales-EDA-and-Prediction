@@ -12,3 +12,5 @@ Data
 We have train (8523) and test (5681) data set, train data set has both input and output variable(s). We need to predict the sales for test data set.
 
  
+Link to the datasets and competition
+https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
