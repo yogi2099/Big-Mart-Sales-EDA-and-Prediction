@@ -9,6 +9,6 @@ Using this model, BigMart will try to understand the properties of products and 
 Please note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.
 
 Data
-We have train (8523) and test (5681) data set, train data set has both input and output variable(s). You need to predict the sales for test data set.
+We have train (8523) and test (5681) data set, train data set has both input and output variable(s). We need to predict the sales for test data set.
 
  
